@@ -1,0 +1,27 @@
+_repo: Banbury-Chap-BooksAnd-Nursery-Toy-Book-Literature_19132
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pearson, Edwin
+    gutenberg_agent_id: '8495'
+    url: http://www.gutenberg.org/2009/agents/8495
+description: ''
+gutenberg_issued: '2006-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19132'
+  lccn: z01000261
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chapbooks, English -- Illustrations'
+- !lcsh 'Children''s literature, English -- Illustrations'
+- !lcc 'Z'
+title: "Banbury Chap Books and Nursery Toy Book Literature\r\n[of the XVIII. and Early\
+  \ XIX. Centuries]"
+url: http://www.gutenberg.org/ebooks/19132
